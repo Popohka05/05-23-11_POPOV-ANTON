@@ -1,0 +1,2 @@
+DEBUG_MODE = True
+MAX_RETRIES = 3

@@ -1,0 +1,5 @@
+https://nonexistentwebsite12345.com - ���������� (ConnectionError)
+https://github.com - ��������
+https://python.org - ��������
+https://google.com - ��������
+https://stackoverflow.com - ��������
